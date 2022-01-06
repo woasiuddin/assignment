@@ -1,0 +1,40 @@
+body{
+      font-family: 'Poppins', sans-serif;
+} 
+h1{
+      font-size: 150px;
+}
+.orange-color{
+      color: orange;
+}
+<div>
+<h1 class="sidebar"> </h1>
+</div>
+.sidebar{
+      width: 15%;
+      height: 117;
+      background-color: tomato;
+      margin-left: 30px;
+      border-radius: 5px;
+      color: orange;
+      margin-top: 65;
+}
+section{
+      display: flex;
+}
+.half-width{
+      width: 5px;
+      padding-left: 20%;
+}
+.half-width img{
+     margin-top: 0%;
+     width: 5px;
+}
+.link-button{
+      text-decoration: none;
+      background-image: linear-gradient(orange,red);
+      padding: 10px 40px;
+      color: white;
+      font-weight: 700;
+      border-radius: 5px;
+}
